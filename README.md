@@ -1,2 +1,3 @@
 # Hadasim
 Hadasim HW
+I want to inform you that I handled this work a week and half before my wedding... 
