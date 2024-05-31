@@ -1,3 +1,2 @@
 # Hadasim
-Hadasim HW
-I want to let you know that I worked on this a week and a half before my wedding...
+Intended for HW in Hadassim
